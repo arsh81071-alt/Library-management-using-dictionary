@@ -1,0 +1,3 @@
+books = {}
+
+issued_books = {}
